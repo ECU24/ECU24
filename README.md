@@ -1,7 +1,8 @@
-<h1>Hi, I'm Ethan Umusu!</h2>
+<h1>Hi, I'm Ethan Umusu!</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-- [TBC]
+
+- [Google Certificate Portfolio Work](https://github.com/ECU24/Google-Certificate-Portfolio-Work/tree/main)
 
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
