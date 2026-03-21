@@ -8,6 +8,7 @@
 
 - [Wedding Canva](https://github.com/MaelPorts/WeddingCanva)
 - [FlexPoint](https://github.com/ECU24/flexPoint)
+- [Fast Food Ordering System](https://github.com/Setap-fast-food/Automation-Software-Eng-Project)
 - [Boat Storage Database](https://github.com/ECU24/Solent-Boats-Database)
 - [Top-down game](https://github.com/ECU24/shooter-game)
 
