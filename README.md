@@ -14,6 +14,7 @@
 
 <h2>🏆 Certification:</h2>
 
+- [CompTIA Security+ ce Certification](https://www.credly.com/badges/df33c51d-50e0-46cf-b624-0e586d7b06c8/linked_in_profile)
 - [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/fd1c2416-bad7-4fdc-9de8-2af607172c0c/public_url)
 
 
