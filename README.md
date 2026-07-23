@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- [Cyber Home Lab](https://github.com/ECU24/Cyber-Home-Lab)
 - [Google Certificate Portfolio Work](https://github.com/ECU24/Google-Certificate-Portfolio-Work/tree/main)
 
 <h2>👨‍💻 Software Engineering Projects:</h2>
